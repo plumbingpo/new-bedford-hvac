@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://newbedfordhvacco.com/sitemap.xml
